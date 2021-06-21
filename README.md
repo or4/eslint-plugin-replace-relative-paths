@@ -52,7 +52,7 @@ Then configure the rules you want to use under the rules section.
         "replace-relative-paths/imports": [
             1,
             {
-                rootAlias: '@@absoluteName',
+                rootAlias: '@absoluteName',
                 paths: [ 'core/src' ],
             },
         ]
