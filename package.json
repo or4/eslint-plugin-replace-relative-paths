@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-replace-relative-paths",
+  "version": "0.1.0",
+  "description": "replace-relative-paths",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Dmitrii Vakarev",
+  "main": "lib/index.js",
+  "peerDependencies": {
+    "eslint": ">=5.0.0"
+  },
+  "license": "ISC"
+}
