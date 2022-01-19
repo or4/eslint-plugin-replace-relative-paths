@@ -63,6 +63,6 @@ Then configure the rules you want to use under the rules section.
 }
 ```
 
-## Recomendation
+## Recommendation
 
 I can recommend eslint-plugin for sort imports, [eslint-plugin-simple-import-sort](https://www.npmjs.com/package/eslint-plugin-simple-import-sort)
